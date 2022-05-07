@@ -56,4 +56,4 @@ Content-Type: application/octet-stream
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/xss.gif?raw=true)
+![](https://github.com/mikeccltt/automotive/blob/main/automotive-shop-management-system/xss.gif?raw=true)
